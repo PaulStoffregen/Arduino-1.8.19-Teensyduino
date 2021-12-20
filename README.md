@@ -1,3 +1,11 @@
+Arduino 1.8.19 with Teensyduino's Modifications
+===============================================
+This copy of Arduino includes the Java code changes added by to the IDE
+by the Teensyduino installer.
+
+
+
+
 <p align="center">
 	<img src="http://content.arduino.cc/brand/arduino-color.svg" width="50%" />
 </p>
